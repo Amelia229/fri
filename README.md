@@ -1,0 +1,2 @@
+# fri
+GitHub Pages
